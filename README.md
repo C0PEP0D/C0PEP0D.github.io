@@ -2,6 +2,8 @@
 
 [Website of the ERC-funded project C0PEP0D](https://C0PEP0D.github.io).
 
+Initally forked from [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll).
+
 Once you have cloned the repository, you can use the following command to run the site locally
 
 ``bundle exec jekyll serve``
