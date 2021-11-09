@@ -12,7 +12,7 @@ permalink: /team/
 | ![Remi Monthiller](/assets/img/rmonthil.png) | **Rémi Monthiller**  <br /> PhD student, since 2019 <br /> <a href="mailto:remi.monthiller@gmail.com" title="email"><span class="icon-mail-alt"></span></a> <a href="http://github.com/rmonthil" title="Github: rmonthil"><span class="icon-github-circled"></span></a> |
 | ![Tommaso Redaelli](/assets/img/tredael.jpg) | **Tommaso Redaelli**  <br /> PhD student, since 2019 <br /> <a href="mailto:tommasoredael.1994@gmail.com" title="email"><span class="icon-mail-alt"></span></a> <a href="http://github.com/Hunstman" title="Github: Hunstman"><span class="icon-github-circled"></span></a> |
 | ![Aurore Loisy](/assets/img/aloisy.png) | **Aurore Loisy**  <br /> postdoc, since 2020 <br /> <a href="mailto:aurore.loisy@gmail.com" title="email"><span class="icon-mail-alt"></span></a>        |
-| ![Selim Mecanna](/assets/img/Selim.png) | **Selim Mecanna**  <br /> PhD student, since 2021 <br /> <a href="mailto:mecannaselim@gmail.com" title="email"><span class="icon-mail-alt"></span></a> <a href="https://github.com/SelimMecanna" title="Github: rmonthil"><span class="icon-github-circled"></span></a> |
+| ![Selim Mecanna](/assets/img/Selim.jpg) | **Selim Mecanna**  <br /> PhD student, since 2021 <br /> <a href="mailto:mecannaselim@gmail.com" title="email"><span class="icon-mail-alt"></span></a> <a href="https://github.com/SelimMecanna" title="Github: rmonthil"><span class="icon-github-circled"></span></a> |
 
 
 # Alumni
