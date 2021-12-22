@@ -12,6 +12,8 @@ permalink: /publications/
 
 3. T. Redaelli, F. Candelier, R. Mehaddi, B. Mehlig (2021) Unsteady and inertial dynamics of an active particle in a fluid, <a href="https://arxiv.org/abs/2105.01408">arXiv:2105.01408</a>
 
+4. A. Loisy, C. Eloy (2021) Searching for a source without gradients: how good is infotaxis and how to beat it, <a href="https://arxiv.org/abs/2112.10861">arXiv:2105.01408</a>
+
 
 # Open-source codes
 
