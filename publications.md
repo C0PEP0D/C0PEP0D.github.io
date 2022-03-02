@@ -19,5 +19,7 @@ permalink: /publications/
 
 * sheld0n <a href="http://github.com/c0pep0d/sheld0n" title="Github: sheld0n"><span class="icon-github-circled"></span></a>: A code that enables advection of active particles in flows.
 
+* otto <a href="http://github.com/c0pep0d/otto" title="Github: otto"><span class="icon-github-circled"></span></a>: A Python package to visualize, evaluate and learn strategies for odor-based searches.
+
 
 
