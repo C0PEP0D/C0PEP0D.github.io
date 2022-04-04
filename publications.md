@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Publications
 
-1. M. Geiger, C. Eloy, M. Wyart (2021) How memory architecture affects performance and learning in simple POMDPs, <a href="https://arxiv.org/abs/2106.08849">arXiv:2106.08849</a>
+1. M. Geiger, C. Eloy, M. Wyart (2021) How memory architecture affects learning in a simple POMDP: the two-hypothesis testing problem, <a href="https://arxiv.org/abs/2106.08849">arXiv:2106.08849</a>
 
 2. R. Monthiller, A. Loisy, M.A.R. Koehl, B. Favier, C. Eloy (2021) Surfing on turbulence, <a href="https://arxiv.org/abs/2110.10409">arXiv:2110.10409</a>
 
