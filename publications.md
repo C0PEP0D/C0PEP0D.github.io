@@ -25,7 +25,7 @@ permalink: /publications/
 
 These games have been developped as part of student projects.
 
-* copepodage <a href="https://milhouzer.itch.io/copepodage" title="itch: copepodage">
+* <a href="https://milhouzer.itch.io/copepodage" title="itch: copepodage">copepodage</a>
 
-* rambopepode <a href="https://copepode.itch.io/rambopepode" title="itch: rambopepode">
+* <a href="https://copepode.itch.io/rambopepode" title="itch: rambopepode">rambopepode</a>
 
