@@ -21,5 +21,11 @@ permalink: /publications/
 
 * otto <a href="http://github.com/c0pep0d/otto" title="Github: otto"><span class="icon-github-circled"></span></a>: A Python package to visualize, evaluate and learn strategies for odor-based searches.
 
+# Serious games
 
+These games have been developped as part of student projects.
+
+* copepodage <a href="https://milhouzer.itch.io/copepodage" title="itch: copepodage">
+
+* rambopepode <a href="https://copepode.itch.io/rambopepode" title="itch: rambopepode">
 
