@@ -14,9 +14,12 @@ permalink: /publications/
 <a href="https://doi.org/10.1098/rspa.2022.0118">DOI:10.1098/rspa.2022.0118</a>,
 <a href="https://arxiv.org/abs/2112.10861">arXiv:2105.01408</a>
 
-3. R. Monthiller, A. Loisy, M.A.R. Koehl, B. Favier, C. Eloy (2021) Surfing on turbulence, <a href="https://arxiv.org/abs/2110.10409">arXiv:2110.10409</a>
+3. A. Loisy, C. Eloy (2022) OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP, *J. Open Source Softw.* **7(74)**, 4266.
+<a href="https://doi.org/10.21105/joss.04266">DOI:10.21105/joss.04266</a>,
 
-4. M. Geiger, C. Eloy, M. Wyart (2021) How memory architecture affects learning in a simple POMDP: the two-hypothesis testing problem, <a href="https://arxiv.org/abs/2106.08849">arXiv:2106.08849</a>
+4. R. Monthiller, A. Loisy, M.A.R. Koehl, B. Favier, C. Eloy (2021) Surfing on turbulence, <a href="https://arxiv.org/abs/2110.10409">arXiv:2110.10409</a>
+
+5. M. Geiger, C. Eloy, M. Wyart (2021) How memory architecture affects learning in a simple POMDP: the two-hypothesis testing problem, <a href="https://arxiv.org/abs/2106.08849">arXiv:2106.08849</a>
 
 
 # Open-source codes
