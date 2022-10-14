@@ -12,7 +12,7 @@ permalink: /publications/
 
 2. A. Loisy, C. Eloy (2022) Searching for a source without gradients: how good is infotaxis and how to beat it, *Proc. R. Soc. A.* **478**, 20220118.
 <a href="https://doi.org/10.1098/rspa.2022.0118">DOI:10.1098/rspa.2022.0118</a>,
-<a href="https://arxiv.org/abs/2112.10861">arXiv:2105.01408</a>
+<a href="https://arxiv.org/abs/2112.10861">arXiv:2112.10861</a>
 
 3. A. Loisy, C. Eloy (2022) OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP, *J. Open Source Softw.* **7(74)**, 4266.
 <a href="https://doi.org/10.21105/joss.04266">DOI:10.21105/joss.04266</a>,
