@@ -15,7 +15,7 @@ permalink: /publications/
 <a href="https://arxiv.org/abs/2112.10861">arXiv:2112.10861</a>
 
 3. A. Loisy, C. Eloy (2022) OTTO: A Python package to simulate, solve and visualize the source-tracking POMDP, *J. Open Source Softw.* **7(74)**, 4266.
-<a href="https://doi.org/10.21105/joss.04266">DOI:10.21105/joss.04266</a>,
+<a href="https://doi.org/10.21105/joss.04266">DOI:10.21105/joss.04266</a>
 
 4. R. Monthiller, A. Loisy, M.A.R. Koehl, B. Favier, C. Eloy (2022) Surfing on turbulence: A strategy for planktonic navigation, *Phys. Rev. Lett.* **129**, 064502.
 <a href="https://doi.org/10.1103/PhysRevLett.129.064502">DOI:10.1103/PhysRevLett.129.064502</a>,
@@ -23,6 +23,7 @@ permalink: /publications/
 
 5. M. Geiger, C. Eloy, M. Wyart (2021) How memory architecture affects learning in a simple POMDP: the two-hypothesis testing problem, <a href="https://arxiv.org/abs/2106.08849">arXiv:2106.08849</a>
 
+6. A. Loisy, R. A. Heinonen (2023) Deep reinforcement learning for the olfactory search POMDP: a quantitative benchmark, <a href="https://arxiv.org/abs/2302.00706">arXiv:2302.00706</a>
 
 # Open-source codes
 
