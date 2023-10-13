@@ -27,6 +27,10 @@ permalink: /publications/
 <a href="https://doi.org/10.1140/epje/s10189-023-00277-8">DOI:10.1140/epje/s10189-023-00277-8</a>,
 <a href="https://arxiv.org/abs/2302.00706">arXiv:2302.00706</a>
 
+7. T. Redaelli, F. Candelier, R. Mehaddi, C. Eloy, B. Mehlig (2023) Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers, *J. Fluid Mech.* **973**, A11.
+<a href="https://doi.org/10.1017/jfm.2023.650">DOI:10.1017/jfm.2023.650</a>,
+<a href="https://arxiv.org/abs/2209.08138">arXiv:2209.08138</a>
+
 # Open-source codes
 
 * sheld0n <a href="http://github.com/c0pep0d/sheld0n" title="Github: sheld0n"><span class="icon-github-circled"></span></a>: A code that enables advection of active particles in flows.
