@@ -32,10 +32,10 @@ permalink: /publications/
 <a href="https://arxiv.org/abs/2209.08138">arXiv:2209.08138</a>
 
 8. C. Eloy (2024) Hydrodynamics of flow sensing in plankton, *Eur. Phys. J. Spec. Top.*  https://doi.org/10.1140/epjs/s11734-024-01252-w
-<a href="https://doi.org/10.1140/epjs/s11734-024-01252-w">DOI:10.1140/epjs/s11734-024-01252-w</a>,
+<a href="https://doi.org/10.1140/epjs/s11734-024-01252-w">DOI:10.1140/epjs/s11734-024-01252-w</a>
 
-9. S. Meccana, A. Loisy, C. Eloy (2024) Applying Reinforcement Learning to Navigation In Partially Observable Flows, *Proc EWRL 2024*
-
+9. S. Meccana, A. Loisy, C. Eloy (2024) Applying Reinforcement Learning to Navigation In Partially Observable Flows, *Seventeenth European Workshop on Reinforcement Learning*.
+<a href="https://openreview.net/forum?id=9JAajeK84e">OpenReview</a>
 
 # Open-source codes
 
