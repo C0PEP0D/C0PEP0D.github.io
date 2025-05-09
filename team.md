@@ -9,6 +9,7 @@ permalink: /team/
 |              |              |
 |:-------------|:------------------|
 | ![Christophe Eloy](/assets/img/ChEloy.jpg) | **Christophe Eloy** <br /> Principal Investigator <br /> <a href="mailto:christopheloy@gmail.com" title="email"><span class="icon-mail-alt"></span></a> <a href="http://www.irphe.fr/~eloy" title="personal webpage"><span class="icon-link"></span></a> <a href="http://github.com/celoy" title="Github: celoy"><span class="icon-github-circled"></span></a> |
+| ![Dylan Letessier](/assets/img/Dylan.jpg) | **Dylan Letessier**  <br /> postdoc, 2025-... <br /> <a href="mailto:dylan.letessier@univ-amu.fr" title="email"><span class="icon-mail-alt"></span></a> <a href="https://dletessi.github.io/" title="personal webpage"><span class="icon-link"></span></a> <a href="https://github.com/dletessi" title="Github: dletessi"><span class="icon-github-circled"></span></a> |
 
 # Alumni
 

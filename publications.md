@@ -44,6 +44,9 @@ permalink: /publications/
 
 * otto <a href="http://github.com/c0pep0d/otto" title="Github: otto"><span class="icon-github-circled"></span></a>: A Python package to visualize, evaluate and learn strategies for odor-based searches.
 
+* RLfl0w <a href="http://github.com/c0pep0d/RLfl0w" title="Github: RLfl0w"><span class="icon-github-circled"></span></a>: A reinforcement learning code to optimize the trajectories of active particles in complex flows
+
+
 # Serious games
 
 These games have been developped as part of student projects.
