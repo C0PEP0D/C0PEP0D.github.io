@@ -38,6 +38,11 @@ permalink: /publications/
 9. S. Mecanna, A. Loisy, C. Eloy (2024) Applying reinforcement learning to navigation in partially observable flows, *Seventeenth European Workshop on Reinforcement Learning*.
 <a href="https://openreview.net/forum?id=9JAajeK84e">OpenReview</a>
 
+10. S. Mecanna, A. Loisy, C. Eloy (2025) A critical assessment of reinforcement learning methods for microswimmer navigation in complex flows, *Eur. Phys. J. E*, 48.
+<a href="https://doi.org/10.1140/epje/s10189-025-00522-2">DOI:10.1140/epje/s10189-025-00522-2</a>,
+<a href="http://arxiv.org/abs/2505.05525">arXiv:2505.05525</a>
+
+
 # Open-source codes
 
 * sheld0n <a href="http://github.com/c0pep0d/sheld0n" title="Github: sheld0n"><span class="icon-github-circled"></span></a>: A code that enables advection of active particles in flows.

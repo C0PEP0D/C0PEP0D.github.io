@@ -29,9 +29,9 @@ We hypothesize that reinforcement learning can help reverse-engineer the algorit
 <dl>
 <dt>Title</dt><dd>Life and death of a virtual copepod in turbulence</dd>
 <dt>Acronym</dt><dd>C0PEP0D</dd>
-<dt>Host institution</dt><dd> <a href="https://www.centrale-marseille.fr">Centrale Marseille</a></dd>
+<dt>Host institution</dt><dd> <a href="https://www.centrale-mediterranee.fr">Centrale Méditerranée</a></dd>
 <dt>Principal investigator</dt><dd> <a href="https://www.irphe.fr/~eloy">Christophe Eloy</a></dd>
-<dt>Dates</dt><dd>2019-2024</dd>
+<dt>Dates</dt><dd>2019-2025 (now closed)</dd>
 </dl>
 
 
