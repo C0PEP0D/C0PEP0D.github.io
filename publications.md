@@ -42,7 +42,7 @@ permalink: /publications/
 <a href="https://doi.org/10.1140/epje/s10189-025-00522-2">DOI:10.1140/epje/s10189-025-00522-2</a>,
 <a href="http://arxiv.org/abs/2505.05525">arXiv:2505.05525</a>
 
-11. M. H. DiBenedetto, R. Monthiller, C. Eloy, L. S. Mullineaux (2025) Plankton active response to turbulence enables efficient transport, *J. Exp. Biol.*
+11. M. H. DiBenedetto, R. Monthiller, C. Eloy, L. S. Mullineaux (2025) Plankton active response to turbulence enables efficient transport, *J. Exp. Biol.*, **228**
 <a href="https://doi.org/10.1242/jeb.251123">DOI:10.1242/jeb.251123</a>
 
 
