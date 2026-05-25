@@ -45,6 +45,10 @@ permalink: /publications/
 11. M. H. DiBenedetto, R. Monthiller, C. Eloy, L. S. Mullineaux (2025) Plankton active response to turbulence enables efficient transport, *J. Exp. Biol.*, **228**
 <a href="https://doi.org/10.1242/jeb.251123">DOI:10.1242/jeb.251123</a>
 
+12. T. Redaelli, E. Kanso, C. Eloy (2026) Steer'n Roll: A stereoscopic flow-sensing strategy for planktonic prey detection and capture, <a href="https://arxiv.org/abs/2601.20421">arXiv:2601.20421</a>
+
+13. C. Eloy (2026) Soft mobility theory, <a href="https://arxiv.org/abs/2605.23869">arXiv:2605.23869</a>
+
 
 # Open-source codes
 
@@ -54,6 +58,7 @@ permalink: /publications/
 
 * RLfl0w <a href="http://github.com/c0pep0d/RLfl0w" title="Github: RLfl0w"><span class="icon-github-circled"></span></a>: A reinforcement learning code to optimize the trajectories of active particles in complex flows
 
+* softmobility <a href="http://github.com/c0pep0d/softmobility" title="Github: softmobility"><span class="icon-github-circled"></span></a>: Soft Mobility Theory to simulate the advection and deformation of a soft body in Stokes flow
 
 # Serious games
 
